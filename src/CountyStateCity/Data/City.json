@@ -1,0 +1,105 @@
+{
+    "CityName": {
+        "001": [
+            {
+                "name": "Port Blair"
+            },
+            {
+                "name": "Nicobarese "
+            }
+        ],
+        "002": [
+            {
+                "name": "Vijayawada"
+            },
+            {
+                "name": "Guntur"
+            },
+            {
+                "name": "Nellore"
+            },
+            {
+                "name": "Kurnool"
+            }
+        ],
+        "003": [
+            {
+                "name": "Dibang Valley"
+            },
+            {
+                "name": "West Siang"
+            },
+            {
+                "name": "West Kameng"
+            },
+            {
+                "name": "Upper Subansiri"
+            }
+        ],
+        "004": [
+            {
+                "name": "Udalguri"
+            }
+        ],
+        "005": [
+            {
+                "name": "Patna"
+            }
+        ],
+        "006": [
+            {
+                "name": "Sydney"
+            }
+        ],
+        "007": [
+            {
+                "name": "Geelong"
+            }
+        ],
+        "008": [
+            {
+                "name": "Gold Coast"
+            }
+        ],
+        "009": [
+            {
+                "name": "Hobart"
+            }
+        ],
+        "010": [
+            {
+                "name": "Gawler"
+            }
+        ],
+        "011": [
+            {
+                "name": "Church"
+            }
+        ],
+        "012": [
+            {
+                "name": "Anchorage"
+            }
+        ],
+        "013": [
+            {
+                "name": "Pago Pago"
+            }
+        ],
+        "014": [
+            {
+                "name": "Casper"
+            }
+        ],
+        "015": [
+            {
+                "name": "Navassa "
+            }
+        ],
+        "016": [
+            {
+                "name": "Akita "
+            }
+        ]
+    }
+}

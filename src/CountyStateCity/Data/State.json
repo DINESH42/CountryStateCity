@@ -1,0 +1,76 @@
+{
+    "State": {
+        "001": [
+            {
+                "code": "001",
+                "name": "Andaman and Nicobar Islands"
+            },
+            {
+                "code": "002",
+                "name": "Andhra Pradesh"
+            },
+            {
+                "code": "003",
+                "name": "Arunachal Pradesh"
+            },
+            {
+                "code": "004",
+                "name": "Assam"
+            },
+            {
+                "code": "005",
+                "name": "Bihar"
+            }
+        ],
+        "002": [
+            {
+                "name": "New South Wales",
+                "code": "006"
+            },
+            {
+                "name": "Victoria",
+                "code": "007"
+            },
+            {
+                "name": "Queensland",
+                "code": "008"
+            },
+            {
+                "name": "Tasmania",
+                "code": "009"
+            },
+            {
+                "name": "South Australia",
+                "code": "010"
+            }
+        ],
+        "003": [
+            {
+                "name": "Alabama",
+                "code": "011"
+            },
+            {
+                "name": "Alaska",
+                "code": "012"
+            },
+            {
+                "name": "American Samoa",
+                "code": "013"
+            }
+        ],
+        "004": [
+            {
+                "name": "Wyoming",
+                "code": "014"
+            },
+            {
+                "name": "Aiti",
+                "code": "015"
+            },
+            {
+                "name": "Akita",
+                "code": "016"
+            }
+        ]
+    }
+}

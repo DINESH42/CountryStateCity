@@ -1,0 +1,20 @@
+{
+    "Country": [
+        {
+            "name": "India",
+            "code": "001"
+        },
+        {
+            "name": "Australia",
+            "code": "002"
+        },
+        {
+            "name": "USA",
+            "code": "003"
+        },
+        {
+            "name": "Japan",
+            "code": "004"
+        }
+    ]
+}
