@@ -11,6 +11,7 @@ const Country = (props) => {
         setCountryCode(e.target.value);
         props.setcntryCode(e.target.value);
         props.setStateCityName('');
+        props.setStCode('');
     }
 
     return (
